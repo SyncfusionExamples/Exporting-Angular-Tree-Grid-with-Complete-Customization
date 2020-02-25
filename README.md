@@ -1,6 +1,8 @@
 # Exporting Angular Tree Grid with Complete Customization
 Learn how you can export the Syncfusion Angular Tree Grid control with complete customization. This sample explains how to export Angular Tree Grid to both PDF and Excel formats. Also, you will learn how to customize the documents before exporting them. The exporting customization includes customizing file names, adding headers and footers, and applying font-oriented customization to headers and records.
 
+Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/treegrid?title=exporting-angular-tree-grid-with-complete-customization
+
 Documentation:
 https://ej2.syncfusion.com/angular/documentation/treegrid/pdf-export/ 
 
